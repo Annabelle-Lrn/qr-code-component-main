@@ -35,7 +35,7 @@ p,h1{
 }
 .container__card{ 
   margin: 1rem;
-  background:var(--white);
+  background:white;
   width: 90%;
   padding: 1rem;
   border-radius: 10px;
