@@ -33,8 +33,8 @@ p,h1{
   background: var(--slate500);
 }
 .container__card{ 
-  
-  background:var(--white);
+  margin: 1rem;
+  background:var(--slate300);
   width: 90%;
   padding: 1rem;
   border-radius: 10px;
@@ -49,10 +49,10 @@ img{
   margin-bottom: 2rem;
 }
 h1{
-line-height: 1.5rem;
-font-size: 1.2rem;
-margin-bottom: 0.5rem;
-color: var(--slate900);
+  line-height: 1.5rem;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: var(--slate900);
 }
 p{
   font-size: 0.875rem;
