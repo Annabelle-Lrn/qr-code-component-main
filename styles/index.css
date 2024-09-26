@@ -13,9 +13,10 @@
   --slate500:hsl(216, 15%, 48%);
   --slate900:hsl(218, 44%, 22%);
   --white:hsl(0, 0%, 100%);
+
 }
 body,main{
-  background: var(--slate500);
+  background: var(--slate300);
   display: grid;
   place-items: center;
 }
@@ -30,11 +31,11 @@ p,h1{
   display: grid;
   place-items: center;
   padding: 2rem;
-  background: var(--slate500);
+  background: var(--slate300);
 }
 .container__card{ 
   margin: 1rem;
-  background:var(--slate300);
+  background:var(--white);
   width: 90%;
   padding: 1rem;
   border-radius: 10px;
